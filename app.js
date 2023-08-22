@@ -33,7 +33,7 @@ secured = async(req, res, next) => {
     if(req.session.id_usuario){
       next();
     } else {
-      res.redirect('/admin/login');
+        res.redirect('/admin/login');
     }
   } catch(error){
     console.log(error);
