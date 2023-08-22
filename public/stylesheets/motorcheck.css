@@ -1,0 +1,58 @@
+body{
+  background-color: #000000;
+}
+
+html{
+  scroll-behavior: smooth;
+}
+
+
+.scroll_section{
+  scroll-margin-top: 60px;
+}
+
+.creeled{
+  background-color: #FFCE00;
+}
+
+.creehulk{
+  width: 400px;
+  height: 500px;
+}
+
+.ml{
+  position: absolute;
+}
+
+.mercadopago1{
+  width: 100px;
+  height:100px;
+  margin:0px -3px;
+}
+
+.c6m{
+  width: 40px;
+  height: 550px;
+}
+
+.card-img{
+  width: 300px;
+  height: 300px;
+}
+
+.videohulk{
+  color: black;
+  text-align: center;
+}
+
+.index{
+  background-color: #FFCE00;
+}
+
+.pie{
+  background-color: #FFCE00;
+}
+
+.formulario{
+  color: #FFCE00;
+}
